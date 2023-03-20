@@ -1,3 +1,1 @@
-# ETL-Pandas-and-Pyspark
-
-![etl-generic](the-etl-workflow.png)
+# Database on celestial bodies created with PostgresSQL during a relational databases study.
